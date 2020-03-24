@@ -17,3 +17,5 @@ Archivo de carga de casos
 
 video Explicativo
 Analisis Covid 19 22032020
+
+![](https://github.com/camilocastellanosg/COVID-19/blob/master/Analisis%20Covid%2019%2022032020.wmv)
