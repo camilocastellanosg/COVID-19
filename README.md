@@ -12,3 +12,8 @@ Contiene el archivo DDl de la BD
 Contiene el DML para hacer insert en la BD
 - insert.txt
 
+Archivo de carga de casos
+- casos a 18 de marzo de 2020.xlax
+
+video Explicativo
+Analisis Covid 19 22032020
